@@ -1,4 +1,4 @@
-import Arg from '../util';
+import Arg from '../util.js';
 
 const TRANSFORM_MAP = { // someone derived this from http://doc.mapeditor.org/en/stable/reference/tmx-map-format/#layer
     true: { // flipped horizontally

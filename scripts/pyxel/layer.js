@@ -1,5 +1,5 @@
-import PyxelTile from './tile';
-import Arg from '../util';
+import PyxelTile from './tile.js';
+import Arg from '../util.js';
 
 export class PyxelLayer {
     constructor(name, number, tiles) {

@@ -1,5 +1,5 @@
-import TiledTile from './tile';
-import Arg from '../util';
+import TiledTile from './til.js';
+import Arg from '../util.js';
 
 export class TiledLayer {
     

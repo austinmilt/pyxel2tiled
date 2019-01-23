@@ -1,4 +1,4 @@
-import Arg from '../util';
+import Arg from '../util.js';
 
 export class TiledTilemap {
 

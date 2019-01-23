@@ -1,5 +1,5 @@
-import PyxelLayer from './layer';
-import Arg from '../util';
+import PyxelLayer from './layer.js';
+import Arg from '../util.js';
 
 export class PyxelTilemap {
 
