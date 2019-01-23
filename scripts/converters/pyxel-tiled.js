@@ -1,7 +1,7 @@
-import { PyxelTilemap } from '../pyxel/tilemap.js';
-import { TiledTilemap } from '../tiled/tilemap.js';
-import { TiledTile } from '../tiled/tile.js';
-import { TiledLayer } from '../tiled/layer.js';
+import PyxelTilemap from '../pyxel/tilemap.js';
+import TiledTilemap from '../tiled/tilemap.js';
+import TiledTile from '../tiled/tile.js';
+import TiledLayer from '../tiled/layer.js';
 
 export default class PyxelTiledConverter {
 
