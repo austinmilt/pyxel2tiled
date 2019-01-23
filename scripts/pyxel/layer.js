@@ -1,7 +1,7 @@
 import PyxelTile from './tile.js';
 import Arg from '../util.js';
 
-export class PyxelLayer {
+export default class PyxelLayer {
     constructor(name, number, tiles) {
         this.name = Arg.required(name, "name");
         this.number = Arg.required(number, "number");

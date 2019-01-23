@@ -1,6 +1,6 @@
 import Arg from '../util.js';
 
-export class TiledTilemap {
+export default class TiledTilemap {
 
     constructor(
         width, height, tileWidth, tileHeight, layers, tilemapType, infinite, nextLayerId, 

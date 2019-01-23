@@ -1,7 +1,7 @@
 import TiledTile from './tile.js';
 import Arg from '../util.js';
 
-export class TiledLayer {
+export default class TiledLayer {
     
     constructor(name, id, tiles, width, height, x, y, visible, opacity, layerType) {
         this.name = Arg.required(name, "name");

@@ -3,7 +3,7 @@ import { TiledTilemap } from '../tiled/tilemap.js';
 import { TiledTile } from '../tiled/tile.js';
 import { TiledLayer } from '../tiled/layer.js';
 
-export class PyxelTiledConverter {
+export default class PyxelTiledConverter {
 
     static convert(inputTilemap) {
         let outputTilemap;

@@ -1,6 +1,6 @@
 import Arg from '../util.js';
 
-export class PyxelTile {
+export default class PyxelTile {
     constructor(tile, index, x, y, rot, flipX) {
         this.tile = Arg.required(tile, "tile");
         this.index = Arg.required(index, "index");

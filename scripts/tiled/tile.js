@@ -15,7 +15,7 @@ const TRANSFORM_MAP = { // someone derived this from http://doc.mapeditor.org/en
     }
 };
 
-export class TiledTile {
+export default class TiledTile {
     
     constructor(transformedId) {
         this.transformedId = Arg.required(transformedId, "transformedId");

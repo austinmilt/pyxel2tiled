@@ -1,7 +1,7 @@
 import PyxelLayer from './layer.js';
 import Arg from '../util.js';
 
-export class PyxelTilemap {
+export default class PyxelTilemap {
 
     constructor(tilesWide, tilesHigh, tileWidth, tileHeight, layers) {
         this.tilesWide = Arg.required(tilesWide, "tilesWide");
