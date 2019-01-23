@@ -1,6 +1,6 @@
-import { PyxelTiledConverter } from './scripts/converters/pyxel-tiled';
-import { PyxelTilemap } from './scripts/pyxel/tilemap';
-import { TiledTilemap } from './scripts/tiled/tilemap';
+import { PyxelTiledConverter } from './scripts/converters/pyxel-tiled.js';
+import { PyxelTilemap } from './scripts/pyxel/tilemap.js';
+import { TiledTilemap } from './scripts/tiled/tilemap.js';
 
 const TilemapType = {
     PYXEL: 0,
