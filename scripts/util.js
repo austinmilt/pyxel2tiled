@@ -1,4 +1,4 @@
-export class Arg {
+export default class Arg {
     static isGiven(arg) {
         return (arg === undefined) || (arg === null);
     }
