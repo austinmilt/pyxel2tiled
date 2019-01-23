@@ -35,15 +35,16 @@ export class Main {
         // get the appropriate converter and tilemaps based on what the input/outputs are
         let inputType;
         let inputTilemap;
+        const inputJson = JSON.parse(this.activeBox.value);
         switch (this.activeBox) {
             case this.pyxelCode:
                 inputType = TilemapType.PYXEL;
-                inputTilemap = PyxelTilemap.fromJson(this.pyxelCode.value)
+                inputTilemap = PyxelTilemap.fromJson(inputJson)
                 break;
             
             case this.tiledCode:
                 inputType = TilemapType.TILED;
-                inputTilemap = TiledTilemap.fromJson(this.tiledCode.value);
+                inputTilemap = TiledTilemap.fromJson(inputJson);
                 break;
 
             default:
