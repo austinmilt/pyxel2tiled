@@ -78,3 +78,5 @@ export default class TiledTilemap {
         return this.tileSets;
     }
 }
+
+export {TiledTilemap};

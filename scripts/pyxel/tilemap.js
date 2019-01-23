@@ -39,3 +39,5 @@ export default class PyxelTilemap {
         return this.layers;
     }
 }
+
+export {PyxelTilemap};

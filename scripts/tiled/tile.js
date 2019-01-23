@@ -34,3 +34,5 @@ export default class TiledTile {
         return this.transformedId;
     }
 }
+
+export { TiledTile };

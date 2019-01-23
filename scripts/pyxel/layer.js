@@ -26,3 +26,5 @@ export default class PyxelLayer {
         return this.tiles;
     }
 }
+
+export {PyxelLayer};

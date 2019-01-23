@@ -15,3 +15,5 @@ export default class Arg {
         return Arg.isGiven(arg) ? arg : defaultValue;
     }
 }
+
+export {Arg};

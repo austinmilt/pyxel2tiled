@@ -40,3 +40,5 @@ export default class PyxelTile {
         return this.flipX;
     }
 }
+
+export {PyxelTile};

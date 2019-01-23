@@ -65,3 +65,5 @@ export default class TiledLayer {
         return this.type;
     }
 }
+
+export {TiledLayer};
