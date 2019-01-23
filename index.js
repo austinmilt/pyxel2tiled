@@ -33,8 +33,8 @@ export class Main {
     convert(event) {
 
         // get the appropriate converter and tilemaps based on what the input/outputs are
-        const inputType;
-        const inputTilemap;
+        let inputType;
+        let inputTilemap;
         switch (this.activeBox) {
             case this.pyxelCode:
                 inputType = TilemapType.PYXEL;
@@ -53,7 +53,7 @@ export class Main {
         }
 
         const otherBox = this.activeBox == this.pyxelCode ? this.tiledCode : this.pyxelCode;
-        const outputType;
+        let outputType;
         switch (otherBox) {
             case this.pyxelCode:
                 outputType = TilemapType.PYXEL;
