@@ -1,0 +1,31 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Pyxel2Tiled</title>
+  <meta name="description" content="Converts Pyxel Edit tilemaps to Tiled format.">
+  <meta name="author" content="Austin Milt">
+  
+  <link rel="stylesheet" type="text/css" href="./style.css">
+</head>
+
+<body>
+    <div class="input-container">
+        <div class="codebox-container">
+            <div class="codebox-label">Pyxel Edit Tilemap</div>
+            <textarea id="pyxel_code" class="code-box" name="pyxel" rows="20" cols="60" wrap="off"></textarea>
+        </div>
+        
+        <div class="codebox-container">
+            <div class="codebox-label">Tiled Tilemap</div>
+            <textarea id="tiled_code" class="code-box" name="tiled" rows="20" cols="60" wrap="off"></textarea>
+        </div>
+    </div>
+    <div class="button-container">
+        <button value="" name="submit" id="submit">Convert</button>
+    </div>
+</body>
+<script src="./index.js" type="module"></script>
+</html>

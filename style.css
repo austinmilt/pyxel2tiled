@@ -1,0 +1,23 @@
+.input-container {
+    padding: 0.5em;
+}
+
+.codebox-container {
+    position: relative;
+    float: left;
+    margin: 2em;
+}
+
+.codebox-label {
+    width: 100%;
+    text-align: center;
+}
+
+.code-box {
+    border: 2px solid black;
+    resize: none;
+}
+
+.button-container {
+    clear: both;
+}
