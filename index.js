@@ -58,11 +58,10 @@ export class Main {
         switch (otherBox) {
             case this.pyxelCode:
                 outputType = TilemapType.PYXEL;
-
                 break;
 
             case this.tiledCode:
-                inputType = TilemapType.TILED;
+                outputType = TilemapType.TILED;
                 break;
 
             default:
