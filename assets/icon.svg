@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="D:\Dropbox\Projects\pyxel2tiled\assets\favicon.png"
+   inkscape:export-xdpi="90.040001"
+   inkscape:export-ydpi="90.040001">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="29.17307"
+     inkscape:cy="31.590658"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06667)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot815"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66666651px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.9564029;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.2768323,0,0,1.2768323,-6.6010145,271.00465)"><flowRegion
+         id="flowRegion817"
+         style="stroke:#000000;stroke-width:0.9564029;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
+           id="rect819"
+           width="53.125"
+           height="45.80357"
+           x="5.7142859"
+           y="9.2678566"
+           style="stroke:#000000;stroke-width:0.9564029;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Orbitron;-inkscape-font-specification:Orbitron;stroke:#000000;stroke-width:0.9564029;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">P T</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot815-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66666651px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1d6cc3;fill-opacity:1;stroke:#000000;stroke-width:0.55278641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       transform="matrix(0.79074266,0,0,0.79074266,2.3490806,281.07233)"><flowRegion
+         id="flowRegion817-3"
+         style="stroke:#000000;stroke-width:0.55278641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#1d6cc3;fill-opacity:1;"><rect
+           id="rect819-7"
+           width="53.125"
+           height="45.80357"
+           x="5.7142859"
+           y="9.2678566"
+           style="stroke:#000000;stroke-width:0.55278641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#1d6cc3;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara821-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Orbitron;-inkscape-font-specification:Orbitron;stroke:#1d6cc3;stroke-width:0.55278641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#1d6cc3;fill-opacity:1;">2</flowPara></flowRoot>  </g>
+</svg>
